@@ -1,1 +1,4 @@
 .env
+.conds
+__pycache__
+install.ipynb
